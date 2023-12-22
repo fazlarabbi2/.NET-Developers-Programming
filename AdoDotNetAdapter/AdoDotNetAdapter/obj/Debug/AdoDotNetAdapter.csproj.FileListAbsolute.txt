@@ -1,0 +1,7 @@
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\obj\Debug\AdoDotNetAdapter.csproj.AssemblyReference.cache
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\obj\Debug\AdoDotNetAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\bin\Debug\AdoDotNetAdapter.exe.config
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\bin\Debug\AdoDotNetAdapter.exe
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\bin\Debug\AdoDotNetAdapter.pdb
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\obj\Debug\AdoDotNetAdapter.exe
+C:\Users\Fozle Rabbi\Desktop\Visual Studio\AdoDotNetAdapter\AdoDotNetAdapter\obj\Debug\AdoDotNetAdapter.pdb
